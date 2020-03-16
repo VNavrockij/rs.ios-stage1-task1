@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "BEBF2295-47E1-460F-84D1-DF2C0AF246C2"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3E1FF9E2-F310-473A-A637-1B7786EB8F42"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RSSchool_T1Tests/MiniMaxSumTests.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "-testConverter1"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3E1FF9E2-F310-473A-A637-1B7786EB8F42 - 944c168499b80dcf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MiniMaxSumTests testConverter1]"
+                  moduleName = "RSSchool_T1Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nv/Documents/GitHub/rs.ios-stage1-task1/RSSchool_T1/RSSchool_T1Tests/MiniMaxSumTests.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "598">
+               </Location>
+               <Location
+                  uuid = "3E1FF9E2-F310-473A-A637-1B7786EB8F42 - 944c168499b80dcf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MiniMaxSumTests testConverter1]"
+                  moduleName = "RSSchool_T1Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nv/Documents/GitHub/rs.ios-stage1-task1/RSSchool_T1/RSSchool_T1Tests/MiniMaxSumTests.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "1300">
+               </Location>
+               <Location
+                  uuid = "3E1FF9E2-F310-473A-A637-1B7786EB8F42 - 944c168499b80dcf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MiniMaxSumTests testConverter1]"
+                  moduleName = "RSSchool_T1Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nv/Documents/GitHub/rs.ios-stage1-task1/RSSchool_T1/RSSchool_T1Tests/MiniMaxSumTests.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "1434">
+               </Location>
+               <Location
+                  uuid = "3E1FF9E2-F310-473A-A637-1B7786EB8F42 - 944c168499b80dcf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MiniMaxSumTests testConverter1]"
+                  moduleName = "RSSchool_T1Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nv/Documents/GitHub/rs.ios-stage1-task1/RSSchool_T1/RSSchool_T1Tests/MiniMaxSumTests.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "1555">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
